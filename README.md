@@ -12,9 +12,9 @@ USED Ubuntu  20.04 LTS .
 It contains the waypoints file and paylaod_drop file containing the coordinates which can be uploaded easily on the arduipilot mission planner .
 
 ## drone-delivery-branch
-Whole code for controlling the uav is inside in this branch 
-main driver code is in the mission.py 
-arduino code for led blinking is in the le_blink.ino
+Whole code for controlling the uav is inside in this branch,
+main driver code is in the mission.py ,
+arduino code for led blinking is in the le_blink.ino .
 
 
 
